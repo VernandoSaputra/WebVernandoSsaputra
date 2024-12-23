@@ -1,0 +1,156 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background: #333;
+    color: #fff;
+    padding: 40px 20px;
+    text-align:center;
+}
+
+.profileimage {
+    width: 170px;
+    height: 170px;
+    margin: auto;
+}
+
+nav {
+    background: #555;
+    color: #fff;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+nav a {
+    color: #fff;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+section {
+    padding: 20px;
+    background: #fff;
+    margin: 10px auto;
+    max-width: 800px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    text-align: center;
+    padding: 10px 20px;
+    background: #333;
+    color: #fff;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+th {
+    background-color: #f4f4f4;
+}
+
+.form-group {
+    margin: 10px 0;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.form-group input, .form-group textarea {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+}
+
+.skills {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.skills h2 {
+    font-size: 24px;
+    color: white;
+    background-color: #9c27b0; /* Warna ungu */
+    padding: 10px;
+    border-radius: 5px;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
+.skill-card {
+    display: inline-block;
+    width: 200px;
+    background-color: white;
+    color: black;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    text-align: left;
+}
+
+.skill-card h3 {
+    margin-top: 0;
+    font-size: 18px;
+    color: #9c27b0;
+}
+
+.skill-card p {
+    font-size: 14px;
+}
+
+#about {
+    background-color: #add8e6; 
+    padding: 20px; /* Tambahkan padding untuk memberi ruang di sekitar teks */
+    border-radius: 5px; /* Opsional: untuk sudut melengkung */
+}
+
+#table {
+    background-color: #ACE1AF; 
+    padding: 20px; /* Tambahkan padding untuk memberi ruang di sekitar teks */
+    border-radius: 5px; /* Opsional: untuk sudut melengkung */
+}
+
+#Skill {
+    background-color: #AF69EE; 
+    padding: 20px; /* Tambahkan padding untuk memberi ruang di sekitar teks */
+    border-radius: 5px; /* Opsional: untuk sudut melengkung */
+}
+
+#form {
+    background-color: #ED2939; 
+    padding: 20px; /* Tambahkan padding untuk memberi ruang di sekitar teks */
+    border-radius: 5px; /* Opsional: untuk sudut melengkung */
+}
+
+#contact {
+    background-color: #FDFD96; 
+    padding: 20px; /* Tambahkan padding untuk memberi ruang di sekitar teks */
+    border-radius: 5px; /* Opsional: untuk sudut melengkung */
+}
